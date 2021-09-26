@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: ozkanpoyrazoglu/ozkantest3:12
+  repository: ozkanpoyrazoglu/certcheck
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
